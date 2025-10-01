@@ -1,11 +1,5 @@
 #jpa01-anthonywong461
 
-* TODO: Change the title of this README (above)
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
-
-
 https://jpa01-anthonywong461.dokku-04.cs.ucsb.edu
 
 Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
