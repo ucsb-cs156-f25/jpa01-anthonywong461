@@ -1,9 +1,7 @@
 #jpa01-anthonywong461
 
-https://jpa01-anthonywong461.dokku-04.cs.ucsb.edu
 
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
-
+Deployed at: https://jpa01-anthonywong461.dokku-04.cs.ucsb.edu
 
 # About this repo
 
